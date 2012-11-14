@@ -1,4 +1,6 @@
 jQueryPlugin
 ============
-Description
-	jquery plugin with full control from api
+<b>Description</b><br/>
+<pre>
+    jquery plugin with full control from api
+</pre>
